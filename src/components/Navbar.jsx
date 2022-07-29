@@ -7,7 +7,7 @@ function Navbar(){
       <section>
       <nav>
           <div class="nav-logo">
-            <a href="#">chapter<span class="logo-half">zero</span></a>
+            <a href="/">chapter<span class="logo-half">zero</span></a>
           </div>
           <div class="nav-menu">
             <i id="icon" class="menu-bar-show"><img src="images/menu2.svg" alt="menu-bar" /></i>
