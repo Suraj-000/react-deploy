@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "b6ef4974cf19a54bcece",
-    "url": "/suraj.website/static/js/main.b6ef4974.chunk.js"
+    "revision": "fb09e6f4850678fccc7a",
+    "url": "/suraj.website/static/js/main.fb09e6f4.chunk.js"
   },
   {
     "revision": "d65b86174fadda7ea98b",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/suraj.website/static/js/runtime~main.0eefd3a5.js"
   },
   {
-    "revision": "65054545fad062707502b6f6db37181d",
+    "revision": "5e3036197aae85b5d00bad415824c270",
     "url": "/suraj.website/index.html"
   }
 ];
