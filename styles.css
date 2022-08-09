@@ -525,7 +525,7 @@ nav{
 .projects-solution{
     margin-top: 30px;
     margin-bottom: 5px;
-    display: block;
+    display: flex;
     width: 100%;
     text-align: center;
     font-size: 1.5rem;
@@ -533,29 +533,17 @@ nav{
 
 .project-1{
     text-align: center;
-
-    display: flex;
+    display: block;
     margin: 3px;
+    border: 1px solid white;
+    border-radius: 20px;
     padding: 3px;
 
-}
-.project-1 div{
-    margin: 3px;
-    padding: 3px;
 }
 .project-header{
-    display: flex;
+    display: block;
     margin: 3px;
     padding: 3px;
-}
-
-.project-1 a{
-    display: flex;
-    margin: 3px;
-    padding: 3px;
-    text-decoration: none;
-    color: var(--special-grey);
-
 }
 .project-1 p{
     margin: 3px;
@@ -565,7 +553,17 @@ nav{
     font-size: 20px;
     padding-top: 10px;
 }
-
+.project-links{
+    display: inline-flex;
+    margin: 3px;
+    text-align: center;
+    align-items: center;
+    padding: 3px;
+}
+.project-links div{
+    margin: 3px;
+    padding: 3px;
+}
 
 /* contact */
 .contact-page{
